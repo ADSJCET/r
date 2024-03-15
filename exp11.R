@@ -1,7 +1,7 @@
 #Exp No: 11
 #Author: Rajat Sandeep (21ad051)
 #Date: 13/03/2024
-#Prog: Transforming Dataf rame
+#Prog: Transforming Dataframe
 
 my_df = data.frame(
   id=c(1,2,3,4),
